@@ -1,1 +1,8 @@
-# Big_Data_Tugas_EAS
+Kelas: Big Data
+
+Nama: Raden Bimo Rizki Prayogo
+
+NRP: 0511740000139
+
+# Big Data - Tugas EAS
+
