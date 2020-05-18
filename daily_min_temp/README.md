@@ -8,7 +8,7 @@ NRP: 0511740000139
 
 # Daily minimum temperatures
 ## Business Understanding
-Workflow ini digunakan untuk melakukan analisa time series terhadap temperatur minimum setip harinya pada suatu tempat
+Workflow ini digunakan untuk melakukan analisa time series terhadap temperatur minimum setiap harinya pada suatu tempat. Analisa dilakukan dalam dua bentuk yakni, pembentukkan cluster dan prediksi nilai temperatur.
 
 Overview Workflow:
 
