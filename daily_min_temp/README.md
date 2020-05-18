@@ -229,6 +229,6 @@ Hasil deployment prediksi:
 
 ![picture](/daily_min_temp/img/deployment1.PNG)
 
-Konfigurasi deployment cluster: 
+Hasil deployment cluster: 
 
 ![picture](/daily_min_temp/img/deployment2.PNG)
