@@ -107,12 +107,6 @@ Contoh aggregasi fitur:
 
 ![picture](/electricity_production/img/aggregation_example.PNG)
 
-Melakukan group by berdasarkan fitur dan lakukan sum:
-
-![picture](/electricity_production/img/aggregation_example_group_sum1.PNG)
-
-![picture](/electricity_production/img/aggregation_example_group_sum2.PNG)
-
 Melakukan group by berdasarkan fitur dan lakukan average:
 
 ![picture](/electricity_production/img/aggregation_example_group_avg1.PNG)
@@ -137,11 +131,11 @@ Filter nilai yang hilang dengan Spark Missing Value:
 ![picture](/electricity_production/img/aggregation_missing.PNG)
 
 
-Kita kemudian mendapatkan persentase pengunaan listrik tiap segmen dengan query berikut:
+Kita kemudian mendapatkan persentase produksi listrik tiap segmen dengan query berikut:
 
 ![picture](/electricity_production/img/aggregation_percent.PNG)
 
-Persentase pengunaan listrik tiap segmen didapat dengan membagi segmen dengan fitur yang terbagi oleh segmen tersebut. Contohnya rata-rata pengunaan segmen hari senin dibagi rata-rata pengunaan tiap minggu.
+Persentase produksi listrikt iap segmen didapat dengan membagi segmen dengan fitur yang terbagi oleh segmen tersebut. Contohnya rata-rata pengunaan segmen hari senin dibagi rata-rata pengunaan tiap minggu.
 
 Hasil query:
 
